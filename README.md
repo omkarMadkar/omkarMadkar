@@ -81,7 +81,7 @@ When I’m not coding, I’m probably brainstorming ideas, sketching new app lay
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=omkarMadkar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🌐 Socials:
+## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-madkar-22893b240/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xc.omkarmadkar027@gmail.com) 
 [![](https://visitcount.itsvg.in/api?id=omkarMadkar&icon=0&color=0)](https://visitcount.itsvg.in)
