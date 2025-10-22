@@ -1,79 +1,24 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/omkarMadkar/omkarMadkar/main/assets/banner.png" alt="Omkar Madkar Banner" width="100%">
-</p>
+# 💫 About Me:
+<!-- Profile Banner --><br><p align="center"><br>  <img src="https://raw.githubusercontent.com/omkarMadkar/omkarMadkar/main/assets/banner.png" alt="Omkar Madkar Banner" width="100%"><br></p><br><br><h1 align="center">👋 Hey there, I’m <span style="color:#00BFFF;">Omkar Madkar</span></h1><br><h3 align="center">🚀 Android Developer | Flutter Developer | Frontend Developer | AI/ML Enthusiast</h3><br><br><p align="center"><br>  <em>Turning ideas into real-world digital solutions — one line of code at a time.</em><br></p><br><br>---<br><br>## 👨‍💻 About Me<br><br>Hey! I’m **Omkar Madkar**, a tech enthusiast and creative problem solver who believes in building solutions that truly make an impact.  <br>I’m deeply passionate about **mobile app development**, **frontend engineering**, and the **fusion of AI with real-world applications**.<br><br>💡 My journey in tech started with curiosity — and grew into a commitment to crafting seamless, intelligent, and user-focused digital experiences.  <br>I love working on projects that challenge my logic, creativity, and design sense — from sleek UI/UX to full-stack integration.<br><br>🌱 I’m always exploring new technologies and experimenting with innovative ideas — currently diving into:<br>- ✨ **Advanced Flutter Animations & Firebase Integration**<br>- ⚙️ **React + Node.js for full-stack app experiences**<br>- 🤖 **AI & ML concepts to make apps smarter**<br><br>When I’m not coding, I’m probably brainstorming ideas, sketching new app layouts, or helping peers debug their way to success 😄  <br><br>---<br><br>⚡ **Quick Snapshot**<br>- 💬 I love discussing app development, UI design, and tech trends.  <br>- 🎯 My focus: writing clean, scalable, and maintainable code.  <br>- 📫 Reach me at: **[xc.omkarmadkar027@gmail.com](mailto:xc.omkarmadkar027@gmail.com)**  <br>- 🌐 Connect with me on **[LinkedIn](https://www.linkedin.com/in/omkar-madkar-22893b240/)**  <br><br>---<br><br><p align="center"><br>  <em>"Code is not just what I do — it's how I express ideas, solve problems, and create impact."</em><br></p><br>
 
-<h1 align="center">Hi 👋, I'm Omkar Madkar</h1>
-<h3 align="center">💻 Android Developer | Flutter Developer | Frontend Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omkarMadkar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omkar-madkar-22893b240/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xc.omkarmadkar027@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=omkarMadkar&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=omkarMadkar&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarMadkar&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🚀 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=omkarMadkar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-👋 I’m **Omkar Madkar**, a passionate developer driven by curiosity and creativity.  
-I specialize in building modern **mobile** and **web applications** using **Flutter**, **Android**, and **Full Stack technologies**.  
-As an **AI/ML enthusiast**, I enjoy combining innovation with practicality to build impactful digital experiences.  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,java,python,html,css,js,react,nodejs,firebase,mysql,git,github,cpp,tailwind" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=omkarMadkar&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=omkarMadkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omkarMadkar&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarMadkar&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarMadkar&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [🏥 MediBuddy App](https://github.com/omkarMadkar/MediBuddy-App-Final) | Healthcare appointment & record management app | Flutter, Firebase |
-| [🛒 Blinkit Clone](https://github.com/omkarMadkar/blinkit_series) | Grocery delivery UI clone | Flutter, Dart |
-| [🌾 One Step Digital Solution Towards Farmers](#) | Smart digital platform helping farmers with modern solutions | Flutter, Firebase |
-| [💻 Sihsa Website](#) | Professional business website design | HTML, CSS, JS |
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/omkar-madkar-22893b240/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:xc.omkarmadkar027@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-## 💡 Dev Quote
-
-> "Code is like art — creativity with logic, innovation with precision."  
-> — *Omkar Madkar*
-
----
-
-## 🌌 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarMadkar&theme=react-dark" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
