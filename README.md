@@ -92,6 +92,5 @@ When I’m not coding, I’m probably brainstorming ideas, sketching new app lay
 [![](https://visitcount.itsvg.in/api?id=omkarMadkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img src="<img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/0ee80ed1-d295-4afc-8c86-af52db124e5b" />
-" alt="Omkar Madkar Banner" width="100%">
+  <img src="imags/imags/8553cc1dcf8d1c1bacd5a1afca5f9b58.jpg" alt="Omkar Madkar Banner" width="100%">
 </p>
