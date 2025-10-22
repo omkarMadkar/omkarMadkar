@@ -1,81 +1,79 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/omkarMadkar/omkarMadkar/main/assets/banner.png" alt="Omkar Madkar Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Omkar Madkar</h1>
-<h3 align="center">🚀 Passionate Mobile App Developer | Flutter | Dart | Firebase | AI/ML Enthusiast</h3>
+<h3 align="center">💻 Android Developer | Flutter Developer | Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omkarMadkar&label=Profile%20views&color=0e75b6&style=flat" alt="omkarMadkar" />
+  <img src="https://komarev.com/ghpvc/?username=omkarMadkar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-## 👨‍💻 About Me
+---
 
-- 🎓 Currently pursuing **Bachelor's in Computer Engineering (SPPU)**  
-- 💡 Passionate about **Mobile Application Development using Flutter**  
-- ⚙️ Skilled in **Dart | Firebase | REST APIs | UI/UX | Clean Architecture**  
-- 🌱 Currently learning **Backend with Node.js** and **AI Integration in Mobile Apps**  
-- 💬 Ask me about **Flutter, Dart, Firebase, API integration, App UI design**  
-- 📫 Reach me at **omkarmadkar.kjcoemr@kjei.edu.in**  
-- 🎯 Motto: *“Code it until you make it!”*
+## 🚀 About Me
 
+👋 I’m **Omkar Madkar**, a passionate developer driven by curiosity and creativity.  
+I specialize in building modern **mobile** and **web applications** using **Flutter**, **Android**, and **Full Stack technologies**.  
+As an **AI/ML enthusiast**, I enjoy combining innovation with practicality to build impactful digital experiences.  
 
-## 🛠️ Languages and Tools
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,git,github,html,css,js,python,figma,sqlite,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,java,python,html,css,js,react,nodejs,firebase,mysql,git,github,cpp,tailwind" />
 </p>
 
+---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omkarMadkar&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarMadkar&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omkarMadkar&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarMadkar&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarMadkar&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarMadkar&layout=compact&theme=radical" />
 </p>
 
+---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [🏥 MediBuddy App](https://github.com/omkarMadkar/MediBuddy-App-Final) | Healthcare appointment & record management app | Flutter, Firebase |
 | [🛒 Blinkit Clone](https://github.com/omkarMadkar/blinkit_series) | Grocery delivery UI clone | Flutter, Dart |
-| [🍔 Food Corner](https://github.com/omkarMadkar/FoodCorner) | Food delivery app | Flutter, Firebase |
-| [💬 LiftUp AI Companion](https://github.com/omkarMadkar/LiftUpAI) | Mental health AI chatbot | IBM Cloud, Node.js |
+| [🌾 One Step Digital Solution Towards Farmers](#) | Smart digital platform helping farmers with modern solutions | Flutter, Firebase |
+| [💻 Sihsa Website](#) | Professional business website design | HTML, CSS, JS |
 
+---
 
-## 🌱 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarMadkar&theme=tokyo-night" />
-</p>
-
-
-## 🌐 Connect with Me
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/omkar-madkar/](https://www.linkedin.com/in/omkar-madkar-22893b240/)" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/omkar-madkar-22893b240/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="omkarmadkar027@gmail.com" target="blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
-  </a>
-  <a href="https://github.com/omkarMadkar" target="blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="Portfolio"/>
+  <a href="mailto:xc.omkarmadkar027@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
+---
 
-## 💬 Random Dev Quote
+## 💡 Dev Quote
 
-> "Code is like humor. When you have to explain it, it’s bad."  
-> – Cory House
+> "Code is like art — creativity with logic, innovation with precision."  
+> — *Omkar Madkar*
 
+---
 
-
+## 🌌 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omkarMadkar/omkarMadkar/main/assets/banner.gif" alt="Coding Banner" width="800"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarMadkar&theme=react-dark" />
 </p>
-
-
