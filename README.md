@@ -72,9 +72,6 @@
 > – Cory House
 
 
-![GitHub followers](https://img.shields.io/github/followers/omkarMadkar?style=social)
-![GitHub stars](https://img.shields.io/github/stars/omkarMadkar?style=social)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=omkarMadkar)
 
 
 <p align="center">
