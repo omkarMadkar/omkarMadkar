@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Omkar Madkar - Profile Banner</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+        background: #0b1220;
+        color: #e6eefc;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+      }
+      header, main {
+        width: 100%;
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 16px;
+      }
+      .banner {
+        width: 100%;
+        display: block;
+        border: 0;
+      }
+      .note {
+        opacity: 0.8;
+        font-size: 14px;
+        margin-top: 12px;
+      }
+      a { color: #7cc4ff; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Omkar Madkar</h1>
+      <p>GIF plays once on load, then switches to static banner automatically.</p>
+    </header>
+    <main>
+      <img id="bannerImage" class="banner" src="../imags/banner.gif" alt="Omkar Madkar Banner" />
+
+      <p class="note">
+        Tip: Reload the page to see the GIF once again. After a few seconds, it
+        will switch to the static image.
+      </p>
+
+      <p class="note">
+        Back to GitHub profile README
+        <a href="https://github.com/omkarMadkar">github.com/omkarMadkar</a>
+      </p>
+    </main>
+
+    <script>
+      (function () {
+        const bannerEl = document.getElementById('bannerImage');
+
+        // Fallback static image (existing PNG from repo)
+        const staticSrc = '../assets/banner.png';
+
+        // After a brief delay (duration of GIF), switch to static image so it
+        // only animates once per page load.
+        const PLAY_MS = 3500; // adjust if your GIF is longer
+
+        // Ensure the GIF starts from first frame by resetting src on load
+        // (helps in hard reload scenarios)
+        const ensureGifStart = () => {
+          const current = bannerEl.src;
+          bannerEl.src = '';
+          // Small timeout to force reload of GIF
+          setTimeout(() => {
+            bannerEl.src = current;
+          }, 0);
+        };
+
+        if (bannerEl && bannerEl.complete) {
+          // Image already loaded from cache
+          setTimeout(() => (bannerEl.src = staticSrc), PLAY_MS);
+        } else if (bannerEl) {
+          bannerEl.addEventListener('load', () => {
+            setTimeout(() => (bannerEl.src = staticSrc), PLAY_MS);
+          });
+        }
+
+        // Try to ensure the GIF starts from frame 0
+        ensureGifStart();
+      })();
+    </script>
+  </body>
+  </html>
+
+
