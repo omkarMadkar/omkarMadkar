@@ -54,13 +54,13 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omkar-madkar/" target="blank">
+  <a href="[https://www.linkedin.com/in/omkar-madkar/](https://www.linkedin.com/in/omkar-madkar-22893b240/)" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:omkarmadkar.kjcoemr@kjei.edu.in" target="blank">
+  <a href="omkarmadkar027@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
   </a>
-  <a href="https://omkarMadkar.github.io/" target="blank">
+  <a href="https://github.com/omkarMadkar" target="blank">
     <img src="https://skillicons.dev/icons?i=github" alt="Portfolio"/>
   </a>
 </p>
