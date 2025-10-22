@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omkarMadkar/omkarMadkar/main/assets/banner.png" alt="Omkar Madkar Banner" width="100%">
+  <img src="imags/banner.gif" alt="Omkar Madkar Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hey there, I’m <span style="color:#00BFFF;">Omkar Madkar</span></h1>
@@ -74,6 +74,11 @@ When I’m not coding, I’m probably brainstorming ideas, sketching new app lay
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="GitHub Snake Animation">
+</p>
+
+<!-- Bottom Banner -->
+<p align="center">
+  <img src="imags/bottom last banner image.jpg" alt="Bottom Banner" width="100%">
 </p>
 
 
