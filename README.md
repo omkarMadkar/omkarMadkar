@@ -28,7 +28,6 @@ When I'm not coding, I'm probably brainstorming ideas, sketching new app layouts
 - 🎯 My focus: writing clean, scalable, and maintainable code
 - 📫 Reach me at: **[xc.omkarmadkar027@gmail.com](mailto:xc.omkarmadkar027@gmail.com)**
 - 🌐 Connect with me on **[LinkedIn](https://www.linkedin.com/in/omkar-madkar07/)**
-
 ---
 
 <br>
@@ -73,25 +72,10 @@ When I'm not coding, I'm probably brainstorming ideas, sketching new app layouts
 </p>
 
 ## 🏆 GitHub Trophies
-
-<div align="center">
-  <!-- Main Trophy Display -->
-  <img src="https://github-profile-trophy.vercel.app/?username=omkarMadkar&theme=aura&no-frame=false&no-bg=false&margin-w=15&margin-h=15&row=2&column=3" alt="Omkar Madkar's GitHub Trophies"/>
-</div>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">🔗 Trophy Source</a>
-</p>
-
----
+![](https://github-profile-trophy.vercel.app/?username=omkarMadkar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/omkar-madkar07/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:xc.omkarmadkar027@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-madkar07/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xc.omkarmadkar027@gmail.com)
+
