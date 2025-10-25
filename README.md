@@ -28,7 +28,6 @@ When I'm not coding, I'm probably brainstorming ideas, sketching new app layouts
 - 🎯 My focus: writing clean, scalable, and maintainable code
 - 📫 Reach me at: **[xc.omkarmadkar027@gmail.com](mailto:xc.omkarmadkar027@gmail.com)**
 - 🌐 Connect with me on **[LinkedIn](https://www.linkedin.com/in/omkar-madkar07/)**
-
 ---
 
 <br>
@@ -49,6 +48,10 @@ When I'm not coding, I'm probably brainstorming ideas, sketching new app layouts
 </div>
 
 ## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarMadkar&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="GitHub Snake Animation">
