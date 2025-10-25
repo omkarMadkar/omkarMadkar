@@ -27,7 +27,7 @@ When I'm not coding, I'm probably brainstorming ideas, sketching new app layouts
 - 💬 I love discussing app development, UI design, and tech trends
 - 🎯 My focus: writing clean, scalable, and maintainable code
 - 📫 Reach me at: **[xc.omkarmadkar027@gmail.com](mailto:xc.omkarmadkar027@gmail.com)**
-- 🌐 Connect with me on **[LinkedIn](https://www.linkedin.com/in/omkar-madkar-22893b240/)**
+- 🌐 Connect with me on **[LinkedIn](https://www.linkedin.com/in/omkar-madkar07/)**
 ---
 
 <br>
@@ -76,5 +76,5 @@ When I'm not coding, I'm probably brainstorming ideas, sketching new app layouts
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/omkar-madkar-22893b240/](https://www.linkedin.com/in/omkar-madkar07/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/omkar-madkar07/]
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xc.omkarmadkar027@gmail.com) 
