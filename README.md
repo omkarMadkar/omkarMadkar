@@ -28,7 +28,6 @@ When I'm not coding, I'm probably brainstorming ideas, sketching new app layouts
 - 🎯 My focus: writing clean, scalable, and maintainable code
 - 📫 Reach me at: **[xc.omkarmadkar027@gmail.com](mailto:xc.omkarmadkar027@gmail.com)**
 - 🌐 Connect with me on **[LinkedIn](https://www.linkedin.com/in/omkar-madkar07/)**
-
 ---
 
 <br>
@@ -51,7 +50,21 @@ When I'm not coding, I'm probably brainstorming ideas, sketching new app layouts
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarMadkar&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=omkarMadkar&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" alt="Omkar's GitHub stats" />
+      </td>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=omkarMadkar&theme=blue_navy&hide_border=false" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarMadkar&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
@@ -59,18 +72,11 @@ When I'm not coding, I'm probably brainstorming ideas, sketching new app layouts
 </p>
 
 ## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omkarMadkar&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
+![](https://github-profile-trophy.vercel.app/?username=omkarMadkar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/omkar-madkar07/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:xc.omkarmadkar027@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/omkar-madkar07/]
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xc.omkarmadkar027@gmail.com) 
+
+correct this my linkedin logo preview for my github readme file.
